@@ -49,5 +49,42 @@ Calcule a soma de todos os números na lista `[1, 2, 3, 4, 5]`.
 # Saída esperada:
 # 15
 ```
+### 7. Índice de um elemento
+Encontre o índice do número `30` na lista `[10, 20, 30, 40, 50]` sem usar métodos de lista.
+
+```python
+# Saída esperada:
+# 2
+```
+
+### 8. Substituindo valores
+Substitua o valor na posição 2 da lista `[5, 10, 15, 20]` por `50`.
+
+```python
+# Saída esperada:
+# [5, 10, 50, 20]
+```
+
+### 9. Iterando sobre a lista
+Imprima cada elemento da lista `[1, 2, 3, 4, 5]` usando um loop `for`.
+
+```python
+# Saída esperada:
+# 1
+# 2
+# 3
+# 4
+# 5
+```
+
+### 10. Multiplicando elementos
+Crie uma nova lista onde cada elemento da lista `[1, 2, 3, 4, 5]` é multiplicado por 2.
+
+```python
+# Saída esperada:
+# [2, 4, 6, 8, 10]
+```
+
+---
 
 ---
